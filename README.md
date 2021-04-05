@@ -1,3 +1,6 @@
+![logo.incydenty.pl](https://logo.incydenty.pl/1/cover.png)
+
+
 # incydenty
 
 
