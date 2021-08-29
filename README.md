@@ -20,7 +20,8 @@ The process literature and ISO standards have the folowing definitions we can us
     
 # Incident
 
-https://www.bmc.com/blogs/incident-management/
++ [Incident Management: The Complete Guide – BMC Software - Blogs](https://www.bmc.com/blogs/incident-management/)
 
++ [How to set up incident reporting (1/2)](https://www.gluu.biz/incident-reporting/)
 
-https://www.gluu.biz/incident-reporting/
++ [Zgłoś incydent - CERT.PL>_](https://incydent.cert.pl/#!/lang=pl)
