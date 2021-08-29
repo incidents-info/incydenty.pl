@@ -1,18 +1,26 @@
 ![logo.incydenty.pl](https://logo.incydenty.pl/1/cover.png)
 
 
-# About incydenty.pl
+# About [incydenty.pl](https://www.incydenty.pl/)
 
 The process literature and ISO standards have the folowing definitions we can use:
 
-    Non-conformity
-    “The non-fulfillment of a requirement”
-    Deviation
-    “Departure from an approved instruction or established standard”
-    Incident
-    “Operational event which is not part of standard operation”
-    Non-conformance
-    “deficiency in a characteristic that renders the quality of a product unacceptable, indeterminate, or not according to specified requirements”
+Non-conformity
+
+    The non-fulfillment of a requirement
+
+Deviation
+    
+    Departure from an approved instruction or established standard
+
+Incident
+    
+    Operational event which is not part of standard operation
+
+Non-conformance
+
+    deficiency in a characteristic that renders the quality of a product unacceptable,
+    indeterminate, or not according to specified requirements”
     
     
 # Incidents
