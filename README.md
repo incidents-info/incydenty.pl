@@ -1,10 +1,7 @@
 ![logo.incydenty.pl](https://logo.incydenty.pl/1/cover.png)
 
 
-# incydenty
-
-
-https://www.gluu.biz/incident-reporting/
+# About incydenty.pl
 
 The process literature and ISO standards have the folowing definitions we can use:
 
@@ -18,10 +15,16 @@ The process literature and ISO standards have the folowing definitions we can us
     “deficiency in a characteristic that renders the quality of a product unacceptable, indeterminate, or not according to specified requirements”
     
     
-# Incident
+# Incidents
 
 + [Incident Management: The Complete Guide – BMC Software - Blogs](https://www.bmc.com/blogs/incident-management/)
 
 + [How to set up incident reporting (1/2)](https://www.gluu.biz/incident-reporting/)
 
 + [Zgłoś incydent - CERT.PL>_](https://incydent.cert.pl/#!/lang=pl)
+
+---
++ [edit](https://github.com/incydenty/www/edit/main/README.md)
+```
+https://github.com/incydenty/www.git
+```
