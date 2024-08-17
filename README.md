@@ -3,6 +3,12 @@
 
 # About [incydenty.pl](https://www.incydenty.pl/)
 
+
++ system do monitoringu inframonit
++ incydenty blog z artykułami o incydentach
++ plugin do generowania zgłoszeń do infra monit
+
+
 The process literature and ISO standards have the folowing definitions we can use:
 
 Non-conformity
